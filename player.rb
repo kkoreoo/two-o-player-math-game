@@ -12,8 +12,4 @@ class Player
     @lifepoints -= 1
   end
 
-  def alive?
-    @lifepoints > 0
-  end
-
 end
